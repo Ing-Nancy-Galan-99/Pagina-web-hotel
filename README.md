@@ -8,6 +8,7 @@ Este es un sitio web completo para un hotel que permite a los huéspedes realiza
 
 ### 🛏️ Sistema de Reservas
 - **Tipos de Habitaciones**: Básica, Intermedia, Suite Presidencial
+- **Cantidad permitida**: cada habitacion tiene el numero de husped permitidos 
 - **Gestión de Disponibilidad**: Verificación automática de fechas disponibles
 - **Cálculo de Precios**: Precios dinámicos basados en tipo de habitación y duración de estadía
 - **Validación de Formularios**: Verificación de datos de entrada en tiempo real
@@ -17,7 +18,7 @@ Este es un sitio web completo para un hotel que permite a los huéspedes realiza
   - Desayuno Continental
   - Paquete Familiar
   - Paquete Pareja
-- **Integración con Reservas**: Los huéspedes pueden agregar desayuno a su reserva en habitacion basica
+- **Integración con Reservas**: Los huéspedes pueden agregar desayuno a su reserva permitido solo habitacion basica
 - **Precios Variables**: Diferentes costos según el tipo de paquete
 
 ### 🏊‍♂️ Áreas del Hotel
@@ -127,6 +128,7 @@ El sitio está optimizado para:
 - Facilitar el contacto entre huéspedes y personal
 - Demostrar la calidad del servicio a través de reseñas
 - Optimizar la conversión de visitantes a reservas
+- Facilitar a emprendedores a realizar una pagina optima para ellos
 
 ## 🔮 Próximas Mejoras
 
@@ -138,9 +140,6 @@ El sitio está optimizado para:
 - [ ] Sistema de puntos y recompensas
 - [ ] Chat en vivo con recepción
 
-## 📞 Soporte
-
-Para preguntas o soporte técnico, contactar al equipo de desarrollo del hotel.
 
 ---
 
