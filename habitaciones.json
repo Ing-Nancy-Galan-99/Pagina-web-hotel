@@ -1,0 +1,42 @@
+{
+    "habitaciones": {
+        "basica": {
+            "total": 3,
+            "disponibles": 3,
+            "precio_noche": 10,
+            "max_huespedes": 4,
+            "caracteristicas": [
+                "2 camas",
+                "1 baño",
+                "Ventilador"
+            ]
+        },
+        "intermedia": {
+            "total": 3,
+            "disponibles": 3,
+            "precio_noche": 25,
+            "max_huespedes": 6,
+            "caracteristicas": [
+                "1 cama matrimonial",
+                "2 camas normales",
+                "2 baños",
+                "TV",
+                "Desayuno incluido"
+            ]
+        },
+        "presidencial": {
+            "total": 3,
+            "disponibles": 3,
+            "precio_noche": 45,
+            "max_huespedes": 6,
+            "caracteristicas": [
+                "Cama King",
+                "2 camas normales",
+                "Jacuzzi",
+                "Minibar",
+                "Vista panorámica",
+                "Desayuno incluido"
+            ]
+        }
+    }
+} 
