@@ -17,7 +17,7 @@ Este es un sitio web completo para un hotel que permite a los huéspedes realiza
   - Desayuno Continental
   - Paquete Familiar
   - Paquete Pareja
-- **Integración con Reservas**: Los huéspedes pueden agregar desayuno a su reserva
+- **Integración con Reservas**: Los huéspedes pueden agregar desayuno a su reserva en habitacion basica
 - **Precios Variables**: Diferentes costos según el tipo de paquete
 
 ### 🏊‍♂️ Áreas del Hotel
@@ -113,10 +113,10 @@ El sitio está optimizado para:
 
 ## 🔧 Cómo Usar
 
-1. **Abrir el sitio**: Navegar a `index.html` en un navegador web
+1. **Abrir el sitio**: Navegar a https://ing-nancy-galan-99.github.io/Pagina-web-hotel/ en un navegador web
 2. **Explorar habitaciones**: Hacer clic en "Ver Habitaciones" para ver opciones
 3. **Realizar reserva**: Seleccionar habitación, fechas y completar formulario
-4. **Agregar desayuno**: Opcionalmente seleccionar paquetes de desayuno
+4. **Agregar desayuno**: Opcionalmente seleccionar paquetes de desayuno en habitacion basica
 5. **Proceso de pago**: Completar información de pago (simulado)
 6. **Confirmación**: Recibir confirmación de la reserva
 
@@ -144,4 +144,4 @@ Para preguntas o soporte técnico, contactar al equipo de desarrollo del hotel.
 
 ---
 
-**Desarrollado con ❤️ para mejorar la experiencia de reserva hotelera** 
+**Desarrollado con ❤️ para mejorar mis tecnicas en desarollo** 
